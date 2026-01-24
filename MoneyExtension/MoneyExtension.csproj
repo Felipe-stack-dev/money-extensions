@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-  <PackageId>MoneyExtensionsFull/PackageId>
+  <PackageId>MoneyExtensionsFull</PackageId>
   <Version>2.0.6</Version>
   <License>MIT</License>
   <Authors>André Baltieri</Authors>
