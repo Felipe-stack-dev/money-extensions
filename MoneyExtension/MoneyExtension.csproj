@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
 
   <PackageId>MoneyExtensionsFull</PackageId>
-  <Version>2.0.6</Version>
+  <Version>2.0.7</Version>
   <License>MIT</License>
   <Authors>André Baltieri</Authors>
   <Company>balta.io</Company>
